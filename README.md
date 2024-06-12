@@ -1,2 +1,2 @@
-# LangJam
-Creating my Own Programming Language.
+# LangJam - Dinoese
+Creating a Dinosaur Programming Language.
